@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm currently leaning Rust.
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=spacemeowx2&show_icons=true)
+
+Twitter: https://twitter.com/spacemeowx2
+
 <!--
 **spacemeowx2/spacemeowx2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
