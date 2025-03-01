@@ -2,43 +2,86 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=spacemeowx2&show_icons=true)
 
-Twitter: https://twitter.com/spacemeowx2
+Twitter: [@spacemeowx2](https://twitter.com/spacemeowx2)
 
-### 关于我
+---
 
-- 天天写前端, 很喜欢 TypeScript 和 Rust
+### About Me 🚀
 
-- 舞萌(maimai)刚入门(2023-7)
+- **Full-stack Developer & Security Enthusiast**, proficient in front-end development (TypeScript, React, Next.js, etc.) and back-end technologies (Node.js, Rust, Deno, etc.), dedicated to solving engineering problems efficiently.
+- **Fast Learner**, able to quickly grasp new technologies and apply them to real-world projects.
+- **Hacker at Heart**, passionate about exploring computer networks, protocol analysis, and reverse engineering, with a love for dissecting the logic behind software and protocols.
+- **Tool Developer**, creating practical tools for security research and network debugging, such as proxy tools and protocol parsers.
 
-- Splatoon(2017-7-21), Apex Legends (2022-6) 玩家(玩的不是特别好, 不过也不菜)
+---
 
-- 会一点逆向, 一点点PWN, 一点点点Web(已经好几年没打CTF了). 打过DEF CON CTF
+### Tech Stack 🛠️
 
-- 平时会写一些玩的游戏/主机的工具, 还有代理相关的东西
+- **Front-end**: HTML, Tailwind CSS, CSS, TypeScript, JavaScript, React, GraphQL, Next.js
+- **Back-end**: Node.js, Deno, Rust, Prisma, GraphQL, OpenAPI/Swagger
+- **Security Tools**: Wireshark, Ghidra, IDA Pro, Burp Suite
+- **Others**: Reverse Engineering, Protocol Analysis, Network Security, Docker, Kubernetes
 
-### 项目简介
+---
 
-- [switch-lan-play](https://github.com/spacemeowx2/switch-lan-play): 给 Switch 模拟局域网和应用 SOCKS 5 代理的工具
+### Open Source Contributions 🌍
 
-- [ldn_mitm](https://github.com/spacemeowx2/ldn_mitm): 把 CFW Switch 的本地联机改成局域网联机的 sysmodule
+- **[switch-lan-play](https://github.com/spacemeowx2/switch-lan-play)**: A tool to simulate LAN and apply SOCKS 5 proxy for Nintendo Switch, with over 22,000 users on Discord.
+- **[ldn_mitm](https://github.com/spacemeowx2/ldn_mitm)**: A sysmodule to convert local play to LAN play for CFW Switch, supporting custom system multiplayer.
+- **[s3si.ts](https://github.com/spacemeowx2/s3si.ts)**: A Splatoon 3 data export tool developed with TypeScript + Deno, integrated into multiple software.
+- **[rabbit-digger-pro](https://github.com/spacemeowx2/rabbit-digger-pro)**: A proxy tool written in Rust, supporting protocol nesting and Clash subscription files.
 
-- [rabbit-digger-pro](https://github.com/rabbit-digger/rabbit-digger-pro): 用 Rust 写的兼容 Clash 订阅文件的代理工具
+---
 
-- [s3si.ts](https://github.com/spacemeowx2/s3si.ts): 将 鱿鱼圈3(Splatoon3) 战绩导出到 stat.ink 的工具
+### Competition Achievements 🏆
 
-- [LiveHelper](https://github.com/spacemeowx2/LiveHelper): 浏览器插件, 将多个平台的关注主播整合到一个界面(很久没更新了)
+- **DEF CON CTF 2021 Finals - 1st Place**
+- **DEF CON CTF 2020 Finals - 1st Place**
 
-<!--
-**spacemeowx2/spacemeowx2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Contact Me 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Twitter: [@spacemeowx2](https://twitter.com/spacemeowx2)
+- Email: spacemeowx2@gmail.com
+
+---
+
+### 关于我 🚀
+
+- **全栈开发者 & 安全爱好者**，擅长前端开发（TypeScript、React、Next.js 等）和后端技术（Node.js、Rust、Deno 等），致力于高效解决工程问题。
+- **快速学习者**，能够迅速掌握新技术并应用于实际项目中。
+- **Hacker at Heart**，热爱探索计算机网络、协议分析、逆向工程，喜欢拆解软件和协议背后的逻辑。
+- **工具开发者**，为安全研究和网络调试开发实用工具，例如代理工具和协议解析器。
+
+---
+
+### 技术栈 🛠️
+
+- **前端**: HTML, Tailwind CSS, CSS, TypeScript, JavaScript, React, GraphQL, Next.js
+- **后端**: Node.js, Deno, Rust, Prisma, GraphQL, OpenAPI/Swagger
+- **安全工具**: Wireshark, Ghidra, IDA Pro, Burp Suite
+- **其他**: 逆向工程, 协议分析, 网络安全, Docker, Kubernetes
+
+---
+
+### 开源贡献 🌍
+
+- **[switch-lan-play](https://github.com/spacemeowx2/switch-lan-play)**: 为 Switch 模拟局域网和应用 SOCKS 5 代理的工具，Discord 服务器拥有超过 22000 名用户。
+- **[ldn_mitm](https://github.com/spacemeowx2/ldn_mitm)**: 将 CFW Switch 的本地联机改成局域网联机的 sysmodule，支持自定义系统联机功能。
+- **[s3si.ts](https://github.com/spacemeowx2/s3si.ts)**: 使用 TypeScript + Deno 开发的 Splatoon 3 数据导出工具，被集成到多款软件中。
+- **[rabbit-digger-pro](https://github.com/spacemeowx2/rabbit-digger-pro)**: 用 Rust 写的代理工具，支持协议嵌套和 Clash 订阅文件。
+
+---
+
+### 竞赛成就 🏆
+
+- **DEF CON CTF 2021 决赛 - 第一名**
+- **DEF CON CTF 2020 决赛 - 第一名**
+
+---
+
+### 联系我 📫
+
+- Twitter: [@spacemeowx2](https://twitter.com/spacemeowx2)
+- Email: spacemeowx2@gmail.com
